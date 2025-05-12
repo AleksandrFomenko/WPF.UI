@@ -10,8 +10,8 @@ using System.Windows.Markup;
 [assembly: ThemeInfo(ResourceDictionaryLocation.None, ResourceDictionaryLocation.SourceAssembly)]
 [assembly: Guid("072fb71f-784e-4113-9da0-a506ff1a0cd5")]
 
-[assembly: XmlnsPrefix("http://lookupengine.com/xaml", "ui")]
-[assembly: XmlnsDefinition("http://lookupengine.com/xaml", "Wpf.Ui")]
-[assembly: XmlnsDefinition("http://lookupengine.com/xaml", "Wpf.Ui.Controls")]
-[assembly: XmlnsDefinition("http://lookupengine.com/xaml", "Wpf.Ui.Markup")]
-[assembly: XmlnsDefinition("http://lookupengine.com/xaml", "Wpf.Ui.Converters")]
+[assembly: XmlnsPrefix("http://Kapibara/xaml", "ui")]
+[assembly: XmlnsDefinition("http://Kapibara/xaml", "Wpf.Ui")]
+[assembly: XmlnsDefinition("http://Kapibara/xaml", "Wpf.Ui.Controls")]
+[assembly: XmlnsDefinition("http://Kapibara/xaml", "Wpf.Ui.Markup")]
+[assembly: XmlnsDefinition("http://Kapibara/xaml", "Wpf.Ui.Converters")]
