@@ -35,7 +35,7 @@ public static class ApplicationThemeManager
 {
     private static ApplicationTheme _cachedApplicationTheme = ApplicationTheme.Unknown;
 
-    internal const string LibraryNamespace = "lookupengine.ui;";
+    internal const string LibraryNamespace = "WPF.UI;";
 
     public const string ThemesDictionaryPath = "pack://application:,,,/WPF.UI;component/Resources/Theme/";
 
